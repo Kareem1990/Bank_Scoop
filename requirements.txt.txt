@@ -1,0 +1,6 @@
+beautifulsoup4
+requests
+pandas
+numpy<2.0  # لضمان التوافق مع matplotlib الحالية
+matplotlib
+tabulate
