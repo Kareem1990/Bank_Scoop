@@ -25,7 +25,7 @@ To run the script:
 
 ```bash
 git clone https://github.com/yourusername/BankScoop.git
-cd BankScoop
+cd Bank_Scoop
 ```
 
 2. **Install required packages**
