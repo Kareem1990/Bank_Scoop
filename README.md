@@ -102,11 +102,3 @@ And shows terminal logs and query results like the following:
 * SQLite Database Interaction
 * Data Visualization with Matplotlib
 * CLI Logging and Clean Output Formatting (tabulate)
-
-## 📄 License
-
-This project is open-source and free to use under the MIT License.
-
----
-
-Feel free to fork this repo or suggest improvements!
